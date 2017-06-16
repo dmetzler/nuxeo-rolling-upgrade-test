@@ -1,0 +1,14 @@
+{
+  "generator-nuxeo": {
+    "lastRemote": "/Users/dmetzler/.cache/node-yeoman-remote-cache/nuxeo/generator-nuxeo-meta/2.5.0",
+    "promptValues": {
+      "super_version": "8.10",
+      "parent_package": "org.nuxeo.ecm.test",
+      "parent_artifact": "nuxeo-rolling-upgrade-test-parent",
+      "parent_version": "1.0-SNAPSHOT",
+      "package": "org.nuxeo.ecm.test"
+    },
+    "_nuxeo_version": "8.10",
+    "multi": true
+  }
+}

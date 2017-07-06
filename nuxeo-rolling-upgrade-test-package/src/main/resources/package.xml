@@ -18,6 +18,7 @@
   <platforms>
     <platform>server-@DISTRIB_VERSION@</platform>
     <platform>server-@DISTRIB_VERSION@-HF*</platform>
+    <platform>server-9.2</platform>
   </platforms>
   <!-- Dependencies on other packages -->
   <dependencies>

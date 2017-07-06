@@ -16,14 +16,9 @@
   <production-state>testing</production-state>
   <supported>false</supported>
   <platforms>
-    <platform>server-@DISTRIB_VERSION@</platform>
-    <platform>server-@DISTRIB_VERSION@-HF*</platform>
-    <platform>server-9.2</platform>
+    <platform>server-*</platform>    
   </platforms>
   <!-- Dependencies on other packages -->
-  <dependencies>
-    <package>nuxeo-jsf-ui</package>    
-  </dependencies>
   <!-- Conflicts with other packages -->
   <!-- <conflicts> -->
   <!-- <package>a-conflicting-package:1.0.0:1.0.0</package> -->

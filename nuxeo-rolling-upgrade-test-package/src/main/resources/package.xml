@@ -19,6 +19,9 @@
     <platform>server-*</platform>    
   </platforms>
   <!-- Dependencies on other packages -->
+    <package>nuxeo-mqueues-1.0.1-SNAPSHOT</package>
+  <dependencies>
+  </dependencies>
   <!-- Conflicts with other packages -->
   <!-- <conflicts> -->
   <!-- <package>a-conflicting-package:1.0.0:1.0.0</package> -->

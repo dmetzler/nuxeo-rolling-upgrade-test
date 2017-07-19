@@ -21,7 +21,7 @@
   <!-- Dependencies on other packages -->
     
   <dependencies>
-    <package>nuxeo-mqueues-1.0.1-SNAPSHOT</package>
+    <package>nuxeo-mqueues</package>
   </dependencies>
   <!-- Conflicts with other packages -->
   <!-- <conflicts> -->

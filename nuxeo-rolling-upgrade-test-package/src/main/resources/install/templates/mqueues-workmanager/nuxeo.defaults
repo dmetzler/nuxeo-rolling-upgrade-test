@@ -1,0 +1,6 @@
+mqueues-workmanager.target=.
+
+#nuxeo.mqueue.chronicle.dir
+nuxeo.mqueue.chronicle.retention.duration=4d
+
+nuxeo.mqueue.work.kafka.config=default

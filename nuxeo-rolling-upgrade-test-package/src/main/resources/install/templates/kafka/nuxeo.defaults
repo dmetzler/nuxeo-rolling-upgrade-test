@@ -1,0 +1,5 @@
+kafka.target=.
+
+kafka.zkServers=localhost:2181
+kafka.bootstrap.servers=localhost:9092
+kafka.topicPrefix=nuxeo-

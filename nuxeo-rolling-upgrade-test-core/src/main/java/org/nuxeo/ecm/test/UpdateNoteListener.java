@@ -39,7 +39,7 @@ public class UpdateNoteListener implements PostCommitFilteringEventListener {
         DocumentModel doc = docCtx.getSourceDocument();
         if ("Note".equals(doc.getType())) {
             try {
-                Thread.sleep(120000);
+                Thread.sleep(5000);
                 doc.setPropertyValue("dc:description", "updated");
                 doc.getCoreSession().saveDocument(doc);
                 doc.getCoreSession().save();

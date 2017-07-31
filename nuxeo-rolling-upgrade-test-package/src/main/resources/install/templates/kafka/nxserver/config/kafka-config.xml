@@ -8,11 +8,11 @@
       </producerProperties>
       <consumerProperties>
         <property name="bootstrap.servers">${kafka.bootstrap.servers}</property>
-        <property name="request.timeout.ms">65000</property>
-        <property name="max.poll.interval.ms">120000</property>
+        <property name="request.timeout.ms">305000</property>
+        <property name="max.poll.interval.ms">300000</property>
         <property name="session.timeout.ms">30000</property>
         <property name="heartbeat.interval.ms">2000</property>
-        <property name="max.poll.records">5</property>
+        <property name="max.poll.records">10</property>
       </consumerProperties>
     </kafkaConfig>
 
